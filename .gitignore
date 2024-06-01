@@ -1,0 +1,17 @@
+# Ignorowanie wszystkich katalogów x64 w repozytorium
+**/x64/
+
+# Ignorowanie wszystkich plików .sln
+*.sln
+
+# Ignorowanie wszystkich plików .vcxproj
+*.vcxproj
+
+# Ignorowanie wszystkich plików .dll
+*.dll
+
+# Ignorowanie wszystkich plików .vcxproj.user
+*.vcxproj.user
+
+# Ignorowanie całego katalogu lab01/.vs/
+**/.vs/
